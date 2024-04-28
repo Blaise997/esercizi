@@ -4,23 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ae58967-764d-47c6-bc02-c014a2515143" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonTutorial.py.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonTut.py" afterDir="false" />
+    <list default="true" id="8ae58967-764d-47c6-bc02-c014a2515143" name="Changes" comment="Tic Tac Toe">
       <change afterPath="$PROJECT_DIR$/esercizi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/esercizi_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/esercizi_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/esercizi_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/esercizi_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/esercizi_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/esercizi_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/esercizi_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Blaise997&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0189239b-afeb-4fc8-ad46-b542131eac53" />
+        <option name="url" value="https://github.com/Blaise997/PythonTutorial.py.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -37,10 +59,18 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.PythonTut.executor&quot;: &quot;Run&quot;,
+    &quot;Python.esercizi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.esercizi_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.esercizi_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.esercizi_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.esercizi_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.esercizi_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.esercizi_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.esercizi_8.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/bipbi/PycharmProjects/PythonTutorial.py&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bipbi/PycharmProjects/PythonTutorial.py/esercizi.py&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;ChangesTree.GroupingKeys&quot;: [
@@ -100,6 +130,19 @@
       <option name="presentableId" value="Default" />
       <updated>1709486733293</updated>
     </task>
+    <task id="LOCAL-00001" summary="Tic Tac Toe">
+      <option name="closed" value="true" />
+      <created>1713691447071</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713691447071</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tic Tac Toe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tic Tac Toe" />
   </component>
 </project>
