@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ae58967-764d-47c6-bc02-c014a2515143" name="Changes" comment="Tic Tac Toe">
-      <change afterPath="$PROJECT_DIR$/esercizi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/esercizi_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/esercizi_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/esercizi_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/esercizi_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/esercizi_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/esercizi_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/esercizi_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8ae58967-764d-47c6-bc02-c014a2515143" name="Changes" comment="Tic Tac Toe" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713691447071</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tic Tac Toe">
+      <option name="closed" value="true" />
+      <created>1714294086919</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714294086919</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
