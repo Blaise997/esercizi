@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ae58967-764d-47c6-bc02-c014a2515143" name="Changes" comment="Tic Tac Toe">
-      <change afterPath="$PROJECT_DIR$/positive_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Magicnumber.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Magicnumber.executor": "Run",
     "Python.PythonTut.executor": "Run",
     "Python.article.executor": "Run",
     "Python.blah.executor": "Run",
@@ -249,7 +250,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714586817084</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Tic Tac Toe">
+      <option name="closed" value="true" />
+      <created>1714921811526</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1714921811526</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Tic Tac Toe">
+      <option name="closed" value="true" />
+      <created>1714921824312</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1714921824312</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
